@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Gabia Maeumgyeol';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/GabiaMaeumgyeol/GabiaMaeumgyeol.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GabiaMaeumgyeol/GabiaMaeumgyeol.ttf') format('truetype');
+}
