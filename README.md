@@ -15,7 +15,7 @@ font-family: 'Gabia Maeumgyeol';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GabiaMaeumgyeol/GabiaMaeumgyeol.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GabiaMaeumgyeol/GabiaMaeumgyeol.css" type="text/css"/>
 ```
 
 &nbsp;
