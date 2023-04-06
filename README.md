@@ -36,7 +36,9 @@ font-face
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/GabiaMaeumgyeol/GabiaMaeumgyeol.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/GabiaMaeumgyeol/GabiaMaeumgyeol.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GabiaMaeumgyeol/GabiaMaeumgyeol.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GabiaMaeumgyeol/GabiaMaeumgyeol.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/GabiaMaeumgyeol/GabiaMaeumgyeol.ttf') format('truetype');
 }
 ```
